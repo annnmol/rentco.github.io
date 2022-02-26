@@ -26,8 +26,15 @@ document.querySelectorAll(".nav-link").forEach(n => n.
        })
 
 
-function save(p1, p2) {
+function save() {
     alert("oops! not designed yet");
+  }
+
+  function signupbutton() {
+    alert("oops! login form  not designed yet");
+  }
+  function search() {
+    alert("oops! login form  not designed yet");
   }
 
 const footerSubmit=document.querySelector('.footersubmit');

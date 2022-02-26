@@ -36,6 +36,7 @@ li {
 button {
   border: none;
   outline: none;
+  cursor: pointer;
 }
 
 
@@ -134,18 +135,27 @@ header {
 
 .register {
   text-transform: uppercase;
+  height: 3.8rem;
   font-size: 1.2rem;
   outline: none;
   border: none;
-  padding: 4px 6px;
+  padding: 4px 10px;
   border-radius: 6px;
   background-color: var(--orange);
+  color: whitesmoke;
 }
 
 .register:hover {
-  background-color: var(--orange);
-  color: var(--black);
+  background-color: var(--white);
+  border: 1px solid var(--orange);
+  color: var(--orange);
 }
+
+
+
+
+
+
 
 .bi-search {
   /* margin-right: 12px; */
