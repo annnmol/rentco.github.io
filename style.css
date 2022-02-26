@@ -149,12 +149,8 @@ header {
   background-color: var(--white);
   border: 1px solid var(--orange);
   color: var(--orange);
+  /* color: white; */
 }
-
-
-
-
-
 
 
 .bi-search {

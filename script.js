@@ -34,7 +34,8 @@ function save() {
     alert("oops! login form  not designed yet");
   }
   function search() {
-    alert("oops! login form  not designed yet");
+    alert("oops! search button not designed yet");
+    // alert("oops! login form  not designed yet");
   }
 
 const footerSubmit=document.querySelector('.footersubmit');
