@@ -720,13 +720,18 @@ todo--section 8
 }
 
 .footerinput {
-  border-radius: 0;
   outline: none;
   height: 4rem;
-  width: 80%;
+  width: 70%;
+  padding: 4px 2px;
+  border: 1px solid var(--lightblack);
+  border-radius: 6px 0 0 6px;
+  background-color: var(--lightwhite);
+  color: var(--lightblack);
 }
 
 .footersubmit {
+  border-radius: 0 6px 6px 0;
   background-color: var(--orange);
   padding: auto auto;
   width: 20%;
@@ -778,6 +783,157 @@ todo--section 8
 
   letter-spacing: 1px;
 }
+
+
+
+.col19{
+  background-color: mediumseagreen;
+  margin: 1rem 2rem;
+  margin-bottom: 3rem;
+}
+
+
+.modelform{
+  background-color: green;
+  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
+/* width: 90%; */
+
+padding: 1rem 10px;
+border: 1px solid var(--lightblack);
+outline: none;
+border-radius: 6px;
+background-color: var(--lightwhite);
+color: var(--lightblack);
+}
+
+
+
+.signupmodel {
+  text-transform: uppercase;
+  height: 3.8rem;
+  font-size: 1.2rem;
+  outline: none;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background-color: var(--orange);
+  color: whitesmoke;
+}
+
+.signupmodel:hover {
+  background-color: var(--white);
+  border: 1px solid var(--orange);
+  color: var(--orange);
+  /* color: white; */
+}
+
+.closemodel {
+  text-transform: uppercase;
+  height: 3.8rem;
+  font-size: 1.2rem;
+  outline: none;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background-color: var(--lightblack);
+  color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
